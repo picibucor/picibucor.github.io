@@ -5,4 +5,4 @@
 layout: home
 ---
 
-The homepage is open for anyone. Feel free to look around.
+A course of a competent person, searching for solutions...
